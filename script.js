@@ -4,3 +4,6 @@ let general = "kenobi";
 
 let temp = "error";
 let water = "wet";
+
+
+let helloThere = 'ten';
